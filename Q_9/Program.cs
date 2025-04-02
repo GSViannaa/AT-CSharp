@@ -7,31 +7,32 @@ public class Program
     public static void Main()
     {
         Produtos[] produtos = new Produtos[5];
-        int opcao;
+        string opcao;
         int quantidadeNaArray = 0;
 
-        do
+        while (true)
         {
             Console.WriteLine("\n1. Inserir Produto \n2. Listar Produto \n3. Sair");
-            opcao = int.Parse(Console.ReadLine());
+            opcao = Console.ReadLine();
 
             switch (opcao)
             {
-                case 1:
+                case "1":
 
                     AdicionarProdutos();
 
                     break;
 
-                case 2:
+                case "2":
 
                     ListarProdutos();
 
                     break;
 
-                case 3:
+                case "3":
 
                     Console.WriteLine("Adeus!");
+                    return;
 
                     break;
 
@@ -42,8 +43,7 @@ public class Program
                     break;
             }
 
-        } while (opcao != 3);
-            
+        }             
 
         void AdicionarProdutos()
         {
@@ -54,15 +54,36 @@ public class Program
                 string nome = Console.ReadLine();
 
                 Console.WriteLine("Digite a quantidade:");
-                int quantidade = int.Parse(Console.ReadLine());
+                if (!int.TryParse(Console.ReadLine(), out int quantidade))
+                {
+                    Console.WriteLine("Quantidade inválida!");
+                    return;
+                }
 
                 Console.WriteLine("Digite o preço:");
-                double preco = double.Parse(Console.ReadLine());
+                if (!double.TryParse(Console.ReadLine(), out double preco))
+                {
+                    Console.WriteLine("Preço inválido!");
+                    return;
+                }
 
                 Produtos produto = new Produtos(nome, quantidade, preco);
                 produtos[quantidadeNaArray] = produto;
                 quantidadeNaArray++;
 
+                try
+                {
+                    using (StreamWriter sw = new StreamWriter("produtos.txt", true))
+                    {
+                        sw.WriteLine($"{nome},{quantidade},{preco}");
+
+                    }
+                }
+
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Erro ao salvar no arquivo: {ex.Message}");
+                }
             }
             else
             {
@@ -74,19 +95,44 @@ public class Program
 
         void ListarProdutos()
         {
-            if(quantidadeNaArray == 0)
+            bool vazio = true;
+            string linha;
+
+            try
             {
-                Console.WriteLine("Nenhum produto cadastrado");
-            }
-            else
-            {
-                for (int i = 0; i < quantidadeNaArray; i++)
+                using (StreamReader sr = new StreamReader("produtos.txt"))
                 {
-                    produtos[i].ExibirInformacoes();
+                    while ((linha = sr.ReadLine()) != null)
+                    {
+                        string[] produtosDados = linha.Split(',');
+
+                        if (produtosDados.Length == 3)
+                        {
+                            Console.WriteLine($"Nome: {produtosDados[0]} | Quantidade: {produtosDados[1]} | Preço: {produtosDados[2]}");
+                            vazio = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Erro: Formato inválido no arquivo.");
+                        }
+                    }
+                    if (vazio)
+                    {
+                        Console.WriteLine("Nenhum produto cadastrado");
+                    }
+                    
                 }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Erro ao ler o arquivo: {ex.Message}");
+            }
+
             }
 
         }
 
     }
-}
+
+
+

@@ -13,3 +13,18 @@ C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_9\obj\Debug\net8.0\refint\Q_9.dl
 C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_9\obj\Debug\net8.0\Q_9.pdb
 C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_9\obj\Debug\net8.0\Q_9.genruntimeconfig.cache
 C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_9\obj\Debug\net8.0\ref\Q_9.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\bin\Debug\net8.0\Q_9.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\bin\Debug\net8.0\Q_9.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\bin\Debug\net8.0\Q_9.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\bin\Debug\net8.0\Q_9.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\bin\Debug\net8.0\Q_9.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.sourcelink.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\refint\Q_9.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\Q_9.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Trabalhos_CSharp\AT_CSharp\Q_9\obj\Debug\net8.0\ref\Q_9.dll

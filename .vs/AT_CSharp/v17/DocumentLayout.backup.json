@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Trabalhos_CSharp\\AT_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7787A64C-8544-4C7C-A666-401D26206B98}|Q_1\\Q_1.csproj|c:\\users\\gabriel.viana\\source\\repos\\at-csharp\\q_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7787A64C-8544-4C7C-A666-401D26206B98}|Q_1\\Q_1.csproj|solutionrelative:q_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966AEF0F-9334-4414-81E3-175F1A420385}|Q_9\\Q_9.csproj|c:\\users\\gabriel.viana\\source\\repos\\at-csharp\\q_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{966AEF0F-9334-4414-81E3-175F1A420385}|Q_9\\Q_9.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\trabalhos_csharp\\at_csharp\\q_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{966AEF0F-9334-4414-81E3-175F1A420385}|Q_9\\Q_9.csproj|solutionrelative:q_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966AEF0F-9334-4414-81E3-175F1A420385}|Q_9\\Q_9.csproj|c:\\users\\gabriel.viana\\source\\repos\\at-csharp\\q_9\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966AEF0F-9334-4414-81E3-175F1A420385}|Q_9\\Q_9.csproj|solutionrelative:q_9\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A04122-B9CE-47C6-9712-93BA14A861D9}|Q_10\\Q_10.csproj|c:\\users\\gabriel.viana\\source\\repos\\at-csharp\\q_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A04122-B9CE-47C6-9712-93BA14A861D9}|Q_10\\Q_10.csproj|solutionrelative:q_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31066BAE-6E56-4EA8-BD9D-54EFB4D4024E}|Q_3\\Q_3.csproj|c:\\users\\gabriel.viana\\source\\repos\\at-csharp\\q_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31066BAE-6E56-4EA8-BD9D-54EFB4D4024E}|Q_3\\Q_3.csproj|solutionrelative:q_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{979CB6BF-B664-4FBA-9C75-33234DD3A10B}|Q_5\\Q_5.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\trabalhos_csharp\\at_csharp\\q_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CB6BF-B664-4FBA-9C75-33234DD3A10B}|Q_5\\Q_5.csproj|solutionrelative:q_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,80 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_1\\Program.cs",
-              "RelativeDocumentMoniker": "Q_1\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_1\\Program.cs",
-              "RelativeToolTip": "Q_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Trabalhos_CSharp\\AT_CSharp\\Q_9\\Program.cs",
+              "RelativeDocumentMoniker": "Q_9\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Trabalhos_CSharp\\AT_CSharp\\Q_9\\Program.cs*",
+              "RelativeToolTip": "Q_9\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T11:41:41.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Produtos.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_9\\Produtos.cs",
-              "RelativeDocumentMoniker": "Q_9\\Produtos.cs",
-              "ToolTip": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_9\\Produtos.cs",
-              "RelativeToolTip": "Q_9\\Produtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:47:55.106Z",
+              "WhenOpened": "2025-04-02T19:04:45.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_9\\Program.cs",
-              "RelativeDocumentMoniker": "Q_9\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_9\\Program.cs",
-              "RelativeToolTip": "Q_9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Trabalhos_CSharp\\AT_CSharp\\Q_5\\Program.cs",
+              "RelativeDocumentMoniker": "Q_5\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Trabalhos_CSharp\\AT_CSharp\\Q_5\\Program.cs",
+              "RelativeToolTip": "Q_5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:45:16.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_3\\Program.cs",
-              "RelativeDocumentMoniker": "Q_3\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_3\\Program.cs",
-              "RelativeToolTip": "Q_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:30:48.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_10\\Program.cs",
-              "RelativeDocumentMoniker": "Q_10\\Program.cs",
-              "ToolTip": "C:\\Users\\gabriel.viana\\source\\repos\\AT-CSharp\\Q_10\\Program.cs",
-              "RelativeToolTip": "Q_10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:27:39.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T23:11:21.414Z"
             }
           ]
         }

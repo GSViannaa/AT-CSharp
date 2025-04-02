@@ -1,0 +1,7 @@
+agua,3,2
+tenis,40,200
+notebook,30,1200
+qfq,3,3
+fqeef,3,4
+fqdfq,2,2
+2,3,4

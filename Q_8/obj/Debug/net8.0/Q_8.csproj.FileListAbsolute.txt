@@ -1,0 +1,15 @@
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\bin\Debug\net8.0\Q_8.exe
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\bin\Debug\net8.0\Q_8.deps.json
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\bin\Debug\net8.0\Q_8.runtimeconfig.json
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\bin\Debug\net8.0\Q_8.dll
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\bin\Debug\net8.0\Q_8.pdb
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.AssemblyInfoInputs.cache
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.AssemblyInfo.cs
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.sourcelink.json
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.dll
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\refint\Q_8.dll
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.pdb
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\Q_8.genruntimeconfig.cache
+C:\Users\gabriel.viana\Source\Repos\AT-CSharp\Q_8\obj\Debug\net8.0\ref\Q_8.dll

@@ -123,9 +123,9 @@ public class Program
                     
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                Console.WriteLine($"Erro ao ler o arquivo: {ex.Message}");
+                Console.WriteLine($"Nenhum produto cadastrado.");
             }
 
             }

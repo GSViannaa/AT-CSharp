@@ -113,7 +113,7 @@ public class Program
                         }
                         else
                         {
-                            Console.WriteLine("Erro: Formato inválido no arquivo.");
+                            Console.WriteLine("Erro: Formato inválido no arquivo");
                         }
                     }
                     if (vazio)
@@ -125,7 +125,7 @@ public class Program
             }
             catch (Exception)
             {
-                Console.WriteLine($"Nenhum produto cadastrado.");
+                Console.WriteLine("Nenhum produto cadastrado");
             }
 
             }
